@@ -1,5 +1,5 @@
-#!/usr/bin/puthon3
+#!/usr/bin/python3
 
 class Square:
-    """Represent a squarre."""
+    """Represent a square."""
     pass
