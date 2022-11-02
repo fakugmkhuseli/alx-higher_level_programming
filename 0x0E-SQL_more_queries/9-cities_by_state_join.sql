@@ -2,7 +2,7 @@
 -- Each record should display: cities.id - cities.name - states.name
 -- Results are sorted in ascending order by cities.id.
 SELECT a.`id`, a.`name`, b.`name`
-  FROM `cities` AS a
-       INNER JOIN `states` AS b
-       ON a.`states_id` = b.`id`
- ORDER BY `id`;
+FROM `cities` AS a
+INNER JOIN `states` AS b
+ON a.`states_id` = b.`id`
+ORDER BY `id`;
