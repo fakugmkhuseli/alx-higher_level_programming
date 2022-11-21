@@ -4,6 +4,6 @@ def uniq_add(my_list=[]):
     num = 0
 
     for i in uniq_list:
-        num += 1
+        num += i
 
     return (num)
