@@ -1,5 +1,5 @@
 # Higher-level programming - Python, MySQL & JavaScript
-This repository contains project programs that were completed for the higher-level programming track at ALX Holberton Software Engineerin programme. In these projects, I learnt Python, MySQL, and JavaScript. The projects are listed as follows:
+This repository contains project programs that were completed for the higher-level programming track at ALX Holberton Software Engineering programme. In these projects, I learnt Python, MySQL, and JavaScript. The projects are listed as follows:
 * [0x00. Python - Hello, World](./0x00-python-hello_world)
 * [0x01. Python - if/else, loops, functions](./0x01-python-if_else_loops_functions)
 * [0x02. Python - import & modules](./0x02-python-import_modules)
