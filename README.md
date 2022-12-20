@@ -25,4 +25,4 @@ This repository contains project programs that were completed for the higher-lev
 
 ## AUTHOR: blank_nib:
 
-* **Mkhuseli G. Faku** <[fakugmkhuseli] (https://github.com/fakugmkhuseli)>
+* **Mkhuseli G. Faku** <[fakugmkhuseli](https://github.com/fakugmkhuseli)>
