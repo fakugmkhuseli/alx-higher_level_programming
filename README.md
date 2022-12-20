@@ -23,6 +23,6 @@ This repository contains project programs that were completed for the higher-lev
 * [0x14. Javascript - Web scraping](./0x14-javascript-web_scraping)
 * [0x15. Javascript - Web JQuery](./0x15-javascript-web_jquery)
 
-## AUTHOR: black_nib:
+## AUTHOR:black_nib:
 
 * **Mkhuseli G. Faku** <[fakugmkhuseli](https://github.com/fakugmkhuseli)>
