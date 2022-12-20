@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 """Displays the value of the X-Request-Id variable."""
-import urllib.request 
-import sys
+import sys 
+import urllib.request
 
 
 if __name__ == "__main__":
