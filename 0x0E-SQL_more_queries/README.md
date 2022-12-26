@@ -1,6 +1,6 @@
 # SQL - More queries
 
-## Learnign Objectives
+## Learning Objectives
  * How to create a new MySQL user
  * How to manage privileges for a user to a database or table
  * What is a PRIMARY KEY
