@@ -1,6 +1,4 @@
 #!/usr/bin/python3
-# 0-safe_print_list.py
-
 
 def safe_print_list(my_list=[], x=0):
     """Print x elements of a list.
@@ -10,7 +8,7 @@ def safe_print_list(my_list=[], x=0):
         x(int): The number of elements of my_list to print.
 
     Returns:
-    The number of elements printed.
+        The number of elements printed.
     """
     ret = 0
     for i in range(x):
